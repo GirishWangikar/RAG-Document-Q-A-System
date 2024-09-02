@@ -1,0 +1,8 @@
+gradio
+groq
+langchain
+langchain-core
+langchain-groq
+langchain-community
+python-dotenv
+pypdf
