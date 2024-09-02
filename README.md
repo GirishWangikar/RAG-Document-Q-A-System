@@ -25,7 +25,7 @@ Before running this application, ensure you have the following:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/rag-document-qa.git
+    git clone https://github.com/GirishWangikar/RAG-Document-Q-A-System
     cd rag-document-qa
     ```
 
