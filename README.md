@@ -1,6 +1,6 @@
 # RAG Document Q&A
 
-To know more, check out my blog - [Crafting Visual Masterpieces: AI’s Creative Revolution](https://medium.com/@girishwangikar/enhancing-q-a-with-rag-technology-501454c009ad)
+To know more, check out my blog - [Enhancing Q&A with RAG Technology](https://medium.com/@girishwangikar/enhancing-q-a-with-rag-technology-501454c009ad)
 
 RAG Document Q&A is an interactive application designed to answer questions based on the content of uploaded PDF documents. Leveraging the llama-3.1-8B-Instant model and FAISS, this app provides accurate and context-aware responses, making it ideal for document-based Q&A tasks.
 
